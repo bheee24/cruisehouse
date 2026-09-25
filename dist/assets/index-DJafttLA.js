@@ -72,7 +72,7 @@
 
     <section class="members-strip" id="members">
       <p class="section-kicker">A few faces from the house</p>
-      <div class="member-quotes"><div><span class="quote-mark">“</span><p>It feels like the group chat finally became a real place.</p><strong>— Morgan, 2 years in</strong></div><div><span class="quote-mark">“</span><p>I came for the swims. I stayed for every person.</p><strong>— Alex, 6 months in</strong></div><div class="member-cta"><p>New face?<br /><strong>You belong here.</strong></p><a href="#join">Say hello ↗</a></div></div>
+      <div class="member-quotes"><div><span class="quote-mark">“</span><p>It feels like the group chat finally became a real place.</p><strong>— Kasfad, 2 years in</strong></div><div><span class="quote-mark">“</span><p>I came for the swims. I stayed for every person.</p><strong>— Bukolami, 6 months in</strong></div><div class="member-cta"><p>New face?<br /><strong>You belong here.</strong></p><a href="#join">Say hello ↗</a></div></div>
     </section>
     <footer><span>© Cruise House</span><span>Made for good company <span class="footer-spark">✦</span></span></footer>
   </main>
