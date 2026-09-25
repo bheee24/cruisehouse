@@ -1,0 +1,39 @@
+<svg width="620" height="760" viewBox="0 0 620 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="310" y1="0" x2="310" y2="760" gradientUnits="userSpaceOnUse"><stop stop-color="#F6F7F2"/><stop offset=".6" stop-color="#D5EEF0"/><stop offset="1" stop-color="#64C3D0"/></linearGradient>
+    <linearGradient id="sea" x1="0" y1="480" x2="620" y2="650" gradientUnits="userSpaceOnUse"><stop stop-color="#8DE0E2"/><stop offset="1" stop-color="#287995"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-opacity=".2"/></filter>
+  </defs>
+  <rect width="620" height="760" rx="8" fill="url(#sky)"/>
+  <circle cx="504" cy="123" r="83" fill="#F5D98D" fill-opacity=".7"/>
+  <path d="M0 434C82 398 135 425 204 409C279 391 342 419 411 399C493 376 553 396 620 366V760H0V434Z" fill="url(#sea)"/>
+  <path d="M0 473C95 449 129 470 214 454C314 435 376 463 460 443C532 427 584 440 620 429" stroke="#DDF7F1" stroke-width="6" stroke-opacity=".7"/>
+  <path d="M0 534C115 510 181 542 263 522C374 494 441 542 620 502" stroke="#DDF7F1" stroke-width="3" stroke-opacity=".55"/>
+  <path d="M35 0C53 54 75 88 115 121" stroke="#4D937B" stroke-width="8" stroke-linecap="round"/>
+  <path d="M48 55C21 38 8 25 0 9M66 76C37 74 17 80 0 94M80 95C65 119 59 137 60 156M86 101C112 93 138 94 158 103" stroke="#4D937B" stroke-width="7" stroke-linecap="round"/>
+  <path d="M584 0C561 43 553 79 558 127" stroke="#4D937B" stroke-width="8" stroke-linecap="round"/>
+  <path d="M570 52C594 40 608 26 620 12M562 77C590 73 608 80 620 93M558 99C573 119 577 138 575 154M556 101C532 91 510 92 492 103" stroke="#4D937B" stroke-width="7" stroke-linecap="round"/>
+  <g fill="#1B2745" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="310" y="67" font-size="18" letter-spacing="8">CRUISE  ✧  HOUX</text>
+    <text x="310" y="184" font-size="67" font-weight="800" letter-spacing="-2">ALL WHITE</text>
+  </g>
+  <text x="310" y="269" fill="#A87416" font-family="Georgia, serif" font-size="91" font-style="italic" text-anchor="middle">Party</text>
+  <path d="M179 407C234 369 385 355 542 390L513 426L250 449L160 433L179 407Z" fill="#F5F4EC" stroke="#1B2745" stroke-width="5" filter="url(#shadow)"/>
+  <path d="M252 386L291 313H351L396 387" fill="#F5F4EC" stroke="#1B2745" stroke-width="5"/>
+  <path d="M291 313L303 276L315 313M351 313L363 276L375 313" stroke="#1B2745" stroke-width="5"/>
+  <path d="M287 343H371M258 368H401" stroke="#A87416" stroke-width="5"/>
+  <path d="M471 403L523 388" stroke="#1B2745" stroke-width="4"/>
+  <g filter="url(#shadow)">
+    <rect x="38" y="491" width="170" height="122" rx="12" fill="#FFFDF6"/>
+    <rect x="225" y="491" width="170" height="122" rx="12" fill="#FFFDF6"/>
+    <rect x="412" y="491" width="170" height="122" rx="12" fill="#FFFDF6"/>
+  </g>
+  <g fill="#1B2745" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="123" y="520" font-size="13" font-weight="700">11TH · FRIDAY</text><text x="123" y="550" font-family="Georgia, serif" font-size="22" font-style="italic">Pool Party</text><text x="123" y="584" font-size="12">HOUSE PARTY</text>
+    <text x="310" y="520" font-size="13" font-weight="700">12TH · SATURDAY</text><text x="310" y="550" font-family="Georgia, serif" font-size="21" font-style="italic">Beach / Yacht</text><text x="310" y="584" font-size="12">YACHT PARTY</text>
+    <text x="497" y="520" font-size="13" font-weight="700">13TH · SUNDAY</text><text x="497" y="550" font-family="Georgia, serif" font-size="22" font-style="italic">Checking Out</text><text x="497" y="584" font-size="12">GOODBYE BRUNCH</text>
+  </g>
+  <rect x="112" y="649" width="396" height="58" rx="29" fill="#1B1E29"/>
+  <text x="310" y="675" fill="#D9A63A" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" letter-spacing="4">DEC 11TH TO DEC 13TH</text>
+  <text x="310" y="697" fill="white" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">MEN 100K  ·  LADIES 70K</text>
+</svg>

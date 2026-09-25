@@ -1,0 +1,16 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Cruise House logo</title>
+  <desc id="desc">Overlapping teal, coral, and navy circles with the Cruise House wordmark.</desc>
+  <defs>
+    <filter id="shadow" x="0" y="0" width="220" height="220" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#152342" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <circle cx="91" cy="91" r="71" fill="#4597A3"/>
+    <circle cx="133" cy="124" r="72" fill="#ED675D"/>
+    <circle cx="99" cy="132" r="66" fill="#152342"/>
+  </g>
+  <text x="110" y="102" text-anchor="middle" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="-1.4">CRUISE</text>
+  <text x="110" y="130" text-anchor="middle" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="-1.4">HOUSE</text>
+</svg>
